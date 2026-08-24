@@ -73,7 +73,7 @@ A Python text analysis application featuring text statistics, search and replace
 
 ## 🤝 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/shahd-falyouna-5875a33b7/)
+[LinkedIn Profile](https://www.linkedin.com/in/shahd-falyouna-5875a33b7)
 
 ---
 
