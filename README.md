@@ -1,5 +1,4 @@
 
-
 # Hi, I'm Shahd 👋
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
@@ -18,64 +17,64 @@ Currently, I'm developing my skills in **Data Analysis** and **Machine Learning*
 * 🌱 Continuously improving my data analysis skills
 * 💻 Building and sharing projects here on GitHub
 
+---
+
 ## 🛠️ Skills & Tools
 
 **Languages & Data**
 
-* Python
-* SQL
-
-**Data Analysis**
-
-* Pandas
-* NumPy
-* Excel
+Python • SQL • Pandas • NumPy • Excel
 
 **Data Visualization**
 
-* Matplotlib
-* Seaborn
-* Power BI
+Power BI • Matplotlib • Seaborn
 
 **Machine Learning**
 
-* Scikit-learn
-* Data Preprocessing
-* Model Training & Evaluation
+Scikit-learn • Data Preprocessing • Model Training & Evaluation
 
 **Tools**
 
-* Git
-* GitHub
-* Google Colab
-* Jupyter Notebook
+Git • GitHub • Google Colab • Jupyter Notebook
 
-## 🚀 Projects
+---
 
-I'm currently organizing and publishing my Data Analysis and Machine Learning projects.
+## 🚀 Featured Projects
 
-Projects will include:
+### 🏠 OpenSooq Real Estate Web Scraper
 
-* 📊 Exploratory Data Analysis
-* 🗃️ SQL Data Analysis
-* 📈 Data Visualization & Power BI
-* 🤖 Machine Learning Projects
+A Python web scraping project that collects and structures real-estate listings from OpenSooq Jordan for data analysis and machine learning experiments.
 
-Stay tuned — more projects are coming soon!
+**Technologies:** Python • BeautifulSoup • Requests • Regex • CSV
+
+🔗 [View Project](https://github.com/shahdfalyouna7-dotcom/opensooq-real-estate-scraper)
+
+---
+
+### 🧠 Smart Text Analyzer
+
+A Python text analysis application featuring text statistics, search and replacement, keyword extraction, Jaccard similarity, Undo/Redo, and Huffman compression.
+
+**Technologies:** Python • OOP • Regex • Data Structures • Algorithms
+
+🔗 [View Project](https://github.com/shahdfalyouna7-dotcom/smart-text-analyzer)
+
+---
 
 ## 📚 Currently Learning
 
-* Advanced Data Analysis
+* Data Analysis
 * SQL
 * Power BI
 * Machine Learning
 * Git & GitHub
 
+---
+
 ## 🤝 Connect With Me
 
-💼 **LinkedIn:** Add your LinkedIn profile link here
+💼 [LinkedIn](https://www.linkedin.com/in/shahd-falyouna-5875a33b7/)
 
 ---
 
-⭐ I'm continuously learning, building, and improving my portfolio.
-
+⭐ Continuously learning, building projects, and improving my data portfolio.
