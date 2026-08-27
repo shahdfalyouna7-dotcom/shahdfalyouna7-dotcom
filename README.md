@@ -32,34 +32,29 @@ My current focus is on strengthening my ability to:
 
 ## Professional direction
 
-```text
-Data Analysis   +   Business Intelligence   +   Machine Learning Foundations
-                              ↓
-                Data-driven decision making
-```
+Data Analysis + Business Intelligence + Machine Learning Foundations  
+↓  
+Data-driven decision making
 
-* Building end-to-end data analysis projects
-* Strengthening SQL and database skills
-* Creating dashboards with Power BI
-* Improving Python data analysis workflows
-* Learning practical Machine Learning techniques
-* Building a professional Data Analytics portfolio
+- Building end-to-end data analysis projects
+- Strengthening SQL and database skills
+- Creating dashboards with Power BI
+- Improving Python data analysis workflows
+- Learning practical Machine Learning techniques
 
 ---
 
 ## Technical foundations
 
-| Area               | Technologies & Skills                                         |
-| ------------------ | ------------------------------------------------------------- |
-| Data Analysis      | Python, Pandas, NumPy, Excel                                  |
-| SQL & Data         | SQL, Data Cleaning, Data Exploration                          |
-| Data Visualization | Power BI, Matplotlib, Seaborn                                 |
-| Machine Learning   | Scikit-learn, Data Preprocessing, Model Training & Evaluation |
-| Python Development | OOP, Regex, File Handling, Data Structures                    |
-| Data Collection    | Web Scraping, BeautifulSoup, Requests                         |
-| Tools              | Git, GitHub, Jupyter Notebook, Google Colab                   |
-
----
+| Area | Technologies & Skills |
+|---|---|
+| Data Analysis | Python, Pandas, NumPy, Excel |
+| SQL & Data | SQL, Data Cleaning, Data Exploration |
+| Data Visualization | Power BI, Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn, Data Preprocessing, Model Training & Evaluation |
+| Python Development | OOP, Regex, File Handling, Data Structures |
+| Data Collection | Web Scraping, BeautifulSoup, Requests |
+| Tools | Git, GitHub, Jupyter Notebook, Google Colab |
 
 ## Selected projects
 
