@@ -86,10 +86,12 @@ More Data Analysis, Machine Learning, and Power BI projects will be added as I c
 أركز حاليًا على تطبيق ما أتعلمه من خلال مشاريع عملية تشمل تنظيف البيانات، تحليلها، استخراج النتائج المهمة منها، بناء التصورات ولوحات المعلومات، ونشر المشاريع وتوثيقها بشكل احترافي على GitHub.
 
 ---
-
 ## Contact
 
-* [LinkedIn — Shahd Falyouna](https://www.linkedin.com/in/shahd-falyouna-5875a33b7)
+* LinkedIn: [www.linkedin.com/in/shahd-falyouna-5875a33b7](https://www.linkedin.com/in/shahd-falyouna-5875a33b7)
+* Email: [shahdfalyouna7@gmail.com](mailto:shahdfalyouna7@gmail.com)
+
+
 
 ---
 
