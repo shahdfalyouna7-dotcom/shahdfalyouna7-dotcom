@@ -1,3 +1,5 @@
+![Shahd Falyouna Banner](./banner.png)
+
 # Hi, I'm Shahd 👋
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
