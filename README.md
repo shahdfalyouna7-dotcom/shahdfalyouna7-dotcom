@@ -1,79 +1,95 @@
-
 # Hi, I'm Shahd 👋
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
 
-I'm passionate about turning raw data into meaningful insights and building practical data-driven projects.
+I’m building my career toward **Data Analysis** by combining Python, SQL, data visualization, business analysis, and machine learning fundamentals.
 
-Currently, I'm developing my skills in **Data Analysis** and **Machine Learning** through hands-on projects and continuous learning.
+I enjoy transforming raw data into meaningful insights, building practical projects, and continuously improving my analytical and technical skills.
 
-## 👩‍💻 About Me
-
-* 📊 Aspiring Data Analyst
-* 🐍 Working with Python for data analysis
-* 🗃️ Learning and practicing SQL
-* 📈 Building dashboards with Power BI
-* 🤖 Exploring Machine Learning
-* 🌱 Continuously improving my data analysis skills
-* 💻 Building and sharing projects here on GitHub
+[LinkedIn](https://www.linkedin.com/in/shahd-falyouna-5875a33b7)
 
 ---
 
-## 🛠️ Skills & Tools
+## About me
 
-**Languages & Data**
+I’m an aspiring Data Analyst with hands-on experience through academic and personal projects involving **Python, Pandas, NumPy, SQL, Excel, Power BI, Web Scraping, and Machine Learning**.
 
-Python • SQL • Pandas • NumPy • Excel
+My current focus is on strengthening my ability to:
 
-**Data Visualization**
-
-Power BI • Matplotlib • Seaborn
-
-**Machine Learning**
-
-Scikit-learn • Data Preprocessing • Model Training & Evaluation
-
-**Tools**
-
-Git • GitHub • Google Colab • Jupyter Notebook
+* Clean and preprocess real-world datasets
+* Perform exploratory data analysis
+* Answer business questions using data
+* Build clear visualizations and dashboards
+* Work with SQL for data analysis
+* Develop practical Machine Learning projects
+* Document and publish my work professionally on GitHub
 
 ---
 
-## 🚀 Featured Projects
+## Professional direction
 
-### 🏠 OpenSooq Real Estate Web Scraper
+```text
+Data Analysis   +   Business Intelligence   +   Machine Learning Foundations
+                              ↓
+                Data-driven decision making
+```
 
-A Python web scraping project that collects and structures real-estate listings from OpenSooq Jordan for data analysis and machine learning experiments.
-
-**Technologies:** Python • BeautifulSoup • Requests • Regex • CSV
-
-🔗 [View Project](https://github.com/shahdfalyouna7-dotcom/opensooq-real-estate-scraper)
-
----
-
-### 🧠 Smart Text Analyzer
-
-A Python text analysis application featuring text statistics, search and replacement, keyword extraction, Jaccard similarity, Undo/Redo, and Huffman compression.
-
-**Technologies:** Python • OOP • Regex • Data Structures • Algorithms
-
-🔗 [View Project](https://github.com/shahdfalyouna7-dotcom/smart-text-analyzer)
+* Building end-to-end data analysis projects
+* Strengthening SQL and database skills
+* Creating dashboards with Power BI
+* Improving Python data analysis workflows
+* Learning practical Machine Learning techniques
+* Building a professional Data Analytics portfolio
 
 ---
 
-## 📚 Currently Learning
+## Technical foundations
 
-* Data Analysis
-* SQL
+| Area               | Technologies & Skills                                         |
+| ------------------ | ------------------------------------------------------------- |
+| Data Analysis      | Python, Pandas, NumPy, Excel                                  |
+| SQL & Data         | SQL, Data Cleaning, Data Exploration                          |
+| Data Visualization | Power BI, Matplotlib, Seaborn                                 |
+| Machine Learning   | Scikit-learn, Data Preprocessing, Model Training & Evaluation |
+| Python Development | OOP, Regex, File Handling, Data Structures                    |
+| Data Collection    | Web Scraping, BeautifulSoup, Requests                         |
+| Tools              | Git, GitHub, Jupyter Notebook, Google Colab                   |
+
+---
+
+## Selected projects
+
+| Project                          | Focus                                                                      | Link                                                                                |
+| -------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Supermarket Sales Analysis       | Python, Pandas, NumPy, OOP, Pivot Tables and Excel reporting               | [Repository](https://github.com/shahdfalyouna7-dotcom/supermarket-sales-analysis)   |
+| OpenSooq Real Estate Web Scraper | Web scraping and structured real-estate data collection                    | [Repository](https://github.com/shahdfalyouna7-dotcom/opensooq-real-estate-scraper) |
+| Smart Text Analyzer              | Python, OOP, Regex, text analysis, data structures and Huffman compression | [Repository](https://github.com/shahdfalyouna7-dotcom/smart-text-analyzer)          |
+
+More Data Analysis, Machine Learning, and Power BI projects will be added as I continue building my portfolio.
+
+---
+
+## Currently learning
+
+* SQL for Data Analysis
 * Power BI
 * Machine Learning
+* Advanced Data Analysis
 * Git & GitHub
 
 ---
 
-## 🤝 Connect With Me
+## بالعربية
 
-[LinkedIn Profile](https://www.linkedin.com/in/shahd-falyouna-5875a33b7)
+أنا **شهد فليونة**، أعمل على بناء مساري المهني في مجال **تحليل البيانات** وتطوير مهاراتي في Python وSQL وPower BI وتحليل البيانات والتعلم الآلي.
+
+أركز حاليًا على تطبيق ما أتعلمه من خلال مشاريع عملية تشمل تنظيف البيانات، تحليلها، استخراج النتائج المهمة منها، بناء التصورات ولوحات المعلومات، ونشر المشاريع وتوثيقها بشكل احترافي على GitHub.
+
+---
+
+## Contact
+
+* [LinkedIn — Shahd Falyouna](https://www.linkedin.com/in/shahd-falyouna-5875a33b7)
 
 ---
 
