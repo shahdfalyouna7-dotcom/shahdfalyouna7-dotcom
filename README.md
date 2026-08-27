@@ -2,11 +2,13 @@
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
 
-I’m building my career toward **Data Analysis** by combining Python, SQL, data visualization, business analysis, and machine learning fundamentals.
+I'm building my career toward **Data Analysis** by combining Python, SQL, data visualization, business analysis, and machine learning fundamentals.
 
 I enjoy transforming raw data into meaningful insights, building practical projects, and continuously improving my analytical and technical skills.
 
-[LinkedIn](https://www.linkedin.com/in/shahd-falyouna-5875a33b7)
+[LinkedIn](https://www.linkedin.com/in/shahd-falyouna-5875a33b7) • [Email](mailto:shahdfalyouna7@gmail.com)
+
+
 
 ---
 
